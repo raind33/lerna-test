@@ -1,5 +1,5 @@
 {
-  "name": "a",
+  "name": "test-a",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "wuyl <wuyl@yxt.com>",
@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "lodash": "^4.17.15"
-  }
+  },
+  "gitHead": "48e1601648eaeb0ee0601a2af74578a9cc0eb41b"
 }
